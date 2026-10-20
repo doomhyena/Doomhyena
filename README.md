@@ -228,7 +228,7 @@ September 2026 – Present
 Currently studying Computer Engineering, expanding my knowledge of computing systems, software, and engineering fundamentals.
 
 **IT Systems and Application Operations Technician**  
-November 2025 – Present
+November 2025 – September 2026
 
 Currently pursuing additional training in IT systems, network infrastructure, and server administration.
 
