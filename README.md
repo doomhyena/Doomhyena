@@ -83,7 +83,7 @@ A desktop utility designed to automate repetitive file organization tasks.
 
 **Tech:** Java 17+ · JavaFX · Gson · ControlsFX · Ikonli · BootstrapFX
 
-### [TechNova Zrt. — Network & Server Infrastructure](https://github.com/doomhyena/technovazrt)
+### [TechNova Zrt. - Network & Server Infrastructure](https://github.com/doomhyena/technovazrt)
 
 **A multi-site corporate network and server infrastructure project**
 
