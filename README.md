@@ -230,7 +230,7 @@ Currently studying Computer Engineering, expanding my knowledge of computing sys
 **IT Systems and Application Operations Technician**  
 November 2025 – September 2026
 
-Currently pursuing additional training in IT systems, network infrastructure, and server administration.
+Completed vocational training covering computer operation and hardware maintenance, workstation and network operating systems, local network design, cybersecurity fundamentals, and cloud services.
 
 **Software Developer and Tester**  
 September 2024 – May 2026
