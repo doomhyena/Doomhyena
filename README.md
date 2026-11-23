@@ -66,17 +66,17 @@ My infrastructure interests include IPv4 subnetting, VLANs, routing and switchin
 
 ## Stats
 
-<p align="center">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-</p>
+</div>
 
 ---
 
