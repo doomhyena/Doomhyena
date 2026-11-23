@@ -1,83 +1,32 @@
-# Hi, I'm Anastasia 
+<p align="center">
+  <img src="https://github-readme-generator-zeta.vercel.app/api/banner?name=Anastasia&title=Software-%20and%20Game%20Developer&theme=catppuccin_mocha" alt="Banner" width="850"/>
+</p>
 
-**Software Developer · System Administrator · Computer Engineering Student**
+<h1 align="center">Hi 👋, I'm Anastasia</h1>
+<h3 align="center">Software- and Game Developer</h3>
 
-I'm a Hungarian software developer based in Budapest, currently studying Computer Engineering. I enjoy building practical applications, exploring new technologies, and understanding how software interacts with the systems and networks it runs on.
+<p align="center">I'm a Hungarian software developer based in Budapest, currently studying Computer Engineering. I enjoy building practical applications, exploring new technologies, and understanding how software interacts with the systems and networks it runs on.<br/><br/>My interests span web development, desktop applications, backend engineering, Linux systems, and networking. I like solving real-world problems, improving existing projects, and learning through hands-on experience.<br/><br/>I am a motivated IT professional with qualifications in Software Development and Testing, as well as IT Systems and Application Operations. I have a strong interest in software engineering, IT infrastructure, and automation. I am currently pursuing a degree in Computer Engineering to further expand my technical knowledge and skills. I am eager to gain practical experience, develop professionally, and take on new challenges in the field of software development. I am currently open to junior software development opportunities.</p>
 
-My interests span web development, desktop applications, backend engineering, Linux systems, and networking. I like solving real-world problems, improving existing projects, and learning through hands-on experience.
+<p align="center">
+  <a href="https://doomhyena.hu/" target="_blank"><img src="https://img.shields.io/badge/Website-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a> <a href="mailto:contact@doomhyena.hu" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- Software Developer and Tester graduate
-- IT Systems and Application Operations Technician graduate
-- Interested in software engineering, infrastructure, and automation
-- Currently studying Computer Engineering
-- Open to junior software development opportunities
+### 🛠️ Tech Stack
 
-[Portfolio](https://doomhyena.hu) · [GitHub](https://github.com/doomhyena) · [Email](mailto:contact@doomhyena.hu) · [Discord](https://discord.com/users/864583234158460938)
+<p align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cs" alt="cs" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></p>
 
----
+### 📊 GitHub Stats
 
-## Technologies & Tools
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=doomhyena&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha" alt="GitHub Stats" />
+</p>
 
-### Programming Languages
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=doomhyena&layout=compact&hide_border=true&theme=catppuccin_mocha" alt="Top Languages"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 🌎 3D Contribution Graph
 
-### Frontend & Desktop Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=flat-square)
-![Wails](https://img.shields.io/badge/Wails-DF5320?style=flat-square&logo=wails&logoColor=white)
-
-### Backend, APIs & Databases
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-### Systems, Networking & Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-My infrastructure interests include IPv4 subnetting, VLANs, routing and switching, OSPF, NAT/PAT, DHCP, DNS, Active Directory, virtualization, firewall configuration, server administration, and network troubleshooting.
-
----
-
-## Languages
-
-- Hungarian - Native
-- English - B2
-- German - A2
-
----
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doomhyena&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=doomhyena&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
-
----
-
-<sub>Building practical software, learning continuously, and exploring the systems behind it.</sub>
+<p align="center">
+<img src="https://raw.githubusercontent.com/doomhyena/doomhyena/HEAD/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="100%"/>
+</p>
